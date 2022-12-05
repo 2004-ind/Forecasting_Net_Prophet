@@ -1,4 +1,4 @@
-# Forecasting_Net_Prophet
+# Forecasting_With_Prophet
 Time series analysis  and  forecast interpretation for decision making with Prophet
 
 ![](Resources/fb_prophet.jpg)
