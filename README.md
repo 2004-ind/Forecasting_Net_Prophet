@@ -1,6 +1,8 @@
 # Forecasting_Net_Prophet
 Time series analysis  and  forecast interpretation for decision making with Prophet
 
+![](Resources/fb_prophet.jpg)
+
 ### Project Overview:
 
 
@@ -63,11 +65,58 @@ To use this application just clone the repository on your local macine and run t
 
 ## Usage Examples
 
+### General Search Trend in CANADA and URUGUAY
+
+![](Resources/general_trend.jpg)
+
+### Prophet’s predictions
+
+#### Canada ![](Resources/canada.jpg)
+
+
+![](Resources/plot_canada.jpg)
+
+
+#### Uruguay ![](Resources/uruguay.jpg)
+
+![](Resources/plot_uruguay.jpg)
+
+
+### Forecast Analysis
+#### Canada
+![](Resources/pred_canada.jpg)
+
+The prophet forecast is showing an increased trend at the end of the year in December because of winter season in Canada. So, it might prove optimal to start marketing campaigns in August and start selling scarves by October.
+
+![](Resources/pred_uruguay.jpg)
+
+In Uruguay since the climate is subtropical, with mild winters (from June to August), an increased trend can be seen around that period and as per prophet will reamain the same. So, it might prove optimal to start marketing campaigns in December and start selling scarves by April.
+
+### Pattern Analysis of Google Trends Time Series Data
+
+### Canada
+![](Resources/pattern_canada.jpg)
+
+The first plot indicates a long-term downward trend in the search trend over the last five or six years. But, short-term patterns also exist for us to discover. For example, the second plot indicates that the people search less from May to July as the weather is warm but again it starts to rise from August and at it's peak in Novemberin winter.
+
+
+### Uruguay
+![](Resources/pattern_uruguay.jpg)
+
+For Uruguay, there is a long term downward trend in the last six years.People are searching less.The yearly trend as depicted by the plot tells us that people start looking for winter cloths as March approaches at highest time is June.After that it starts to decline until September because Uruguay experiances hot summers (from December to March).
+
+#### Conclusion
+
+In conclusion, we used Prophet to analyze search trend in Canada and Uruguay. The purpose was to validate market opportunities to help the Menagerie Hill Ranch indigenous people in Vacaville, California export alpaca wool scarves to Canada and Uruguay.We were asked to find the best season to sell scarves in Canada and Uruguay and to forecast the demand for scarves for one year.
+
+From our analysis it can be concluded that in Canada it might prove optimal to start marketing campaigns in August and start selling scarves by October.And in Uruguay they should start marketing campaigns in December and start selling scarves by April.
+
+
 ## Contributers:
 
 Manisha Lal
 
-12/04/2022
+12/05/2022
 
 manisha.lal.2009@gmail.com
 ___
